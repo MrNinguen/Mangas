@@ -104,7 +104,13 @@ main:after {
 }
 
 .site {
-    border: solid black 3px;
+    margin: 50px;
     padding: 5px;
     font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.site a {
+    text-transform: none;
+    color: #ffffff;
 }
